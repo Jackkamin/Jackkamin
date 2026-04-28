@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Jack 👋
 
-<!--
-**Jackkamin/Jackkamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student @ Open University | Computing & IT (Software)
 
-Here are some ideas to get you started:
+## 🔧 Currently working on
+- Banking application in Java (OOP, Spring Boot, REST APIs)
+- Learning Python and cloud engineering
+- AWS Cloud Practitioner certification
+- Bachelors for CS in the Open University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+- **Languages:** Java, Python (learning)
+- **Tools:** Git, IntelliJ IDEA
+- **Studying:** AWS, Docker, Kubernetes, Terraform
+
+## 🎯 Goal
+Breaking into cloud/AI infrastructure engineering.
+Interested in how companies like Anthropic and OpenAI build at scale.
+
+## 📫 Connect
+- LinkedIn:
