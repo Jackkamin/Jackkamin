@@ -4,6 +4,7 @@ CS student | Computing & IT (Software)
 
 ## 🔧 Currently working on
 - Banking application in Java (OOP, Spring Boot, REST APIs)
+- A Shopify bot detection service to reduce bot traffic on store pages.
 - Learning Python and cloud engineering
 - AWS Cloud Practitioner certification
 - Bachelors for Computing and IT
