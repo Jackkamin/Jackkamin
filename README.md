@@ -18,5 +18,5 @@ CS student | Computing & IT (Software)
 ## 🎯 Goal
 Breaking into AWS/AI infrastructure engineering.
 Interested in how companies like Anthropic and OpenAI build at scale.
-
+Work on a project that will help people in real life.
                         
