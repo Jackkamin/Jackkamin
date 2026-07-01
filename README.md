@@ -1,22 +1,37 @@
-# Hi, I'm Jack :)
+### Hi, I'm Jack :)
 
 CS student | Computing & IT (Software)
 
-## 🔧 Currently working on
-- Banking application in Java (OOP, Spring Boot, REST APIs)
-- A Shopify bot detection service to reduce bot traffic on store pages.
-- Snall App for my mum to help with her cleaning work, (Cursor assisted)
-- AWS Service Checker to help reduce costs and wasted resources.
+---
+
+### 🛠️ Building
+
+- **AWS Account Auditor** — Python/boto3 tool that checks EC2 and S3 configs against basic security/cost best practices
+- **AWS Cost Anomaly Checker** — in progress, flags unexpected spend across AWS accounts
+- **ZClean** — small iOS app for my mum's cleaning business (job tracking, hours, payments), built with Cursor
+
+---
+
+### 📚 Studying
+
 - AWS Cloud Practitioner certification
-- Bachelors for Computing and IT
+- BSc Computing and IT (Open University)
+- Docker, Kubernetes, Terraform
 
-## 🛠️ Technologies
-- **Languages:** Java, Python and JavaScript
-- **Tools:** Git, IntelliJ IDEA, AWS
-- **Studying:** AWS, Docker, Kubernetes, Terraform and AI.
+---
 
-## 🎯 Goal
-Breaking into AWS/AI infrastructure engineering.
-Interested in how companies like Anthropic and OpenAI build at scale.
-Work on a project that will help people in real life.
-                        
+### ⚙️ Technologies
+
+- **Languages:** Python and Java
+- **Cloud/Infra:** AWS (EC2, S3, IAM), Terraform
+- **Tools:** Git, IntelliJ IDEA, PyCharm
+
+---
+
+### 🎯 Goal
+
+Breaking into cloud/MLOps engineering — interested in how infrastructure gets built and kept reliable at scale.
+
+---
+
+📫 Reach me: Jackkamin201@gmail.com
