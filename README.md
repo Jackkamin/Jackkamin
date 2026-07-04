@@ -6,8 +6,7 @@ CS student | Computing & IT (Software)
 
 ### 🛠️ Building
 
-- **AWS Account Auditor** — Python/boto3 tool that checks EC2 and S3 configs against basic security/cost best practices
-- **AWS Cost Anomaly Checker** — in progress, flags unexpected spend across AWS accounts
+- **AWS Account Auditor** — Python/boto3 tool that checks EC2, S3, and IAM configs against basic security/cost best practices
 - **ZClean** — small iOS app for my mum's cleaning business (job tracking, hours, payments), built with Cursor
 
 ---
@@ -30,7 +29,7 @@ CS student | Computing & IT (Software)
 
 ### 🎯 Goal
 
-Breaking into cloud/MLOps engineering — interested in how infrastructure gets built and kept reliable at scale.
+Breaking into DevOps/cloud engineering — interested in how infrastructure gets built and kept reliable at scale.
 
 ---
 
