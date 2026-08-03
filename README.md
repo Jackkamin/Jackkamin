@@ -7,7 +7,7 @@ CS student | Computing & IT (Software)
 ### 🛠️ Building
 
 - **AWS Account Auditor** — Python/boto3 tool that checks EC2, S3, and IAM configs against basic security/cost best practices
-- **ZClean** — small iOS app for my mum's cleaning business (job tracking, hours, payments), built with Cursor
+- **ZClean** — small iOS app for my mum's cleaning jobs (job tracking, hours, payments), built with Cursor
 
 ---
 
@@ -15,7 +15,6 @@ CS student | Computing & IT (Software)
 
 - AWS Cloud Practitioner certification
 - BSc Computing and IT (Open University)
-- Docker, Kubernetes, Terraform
 
 ---
 
