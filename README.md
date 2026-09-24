@@ -1,24 +1,27 @@
-### Hi, I'm Jack :)
+# Hi, I'm Jack :)
 
 CS student | Computing & IT (Software)
 
 ---
 
-### 🛠️ Building
+## 🛠️ Building
 
-- **AWS Account Auditor** — Python/boto3 tool that checks EC2, S3, and IAM configs against basic security/cost best practices
-- **ZClean** — small iOS app for my mum's cleaning jobs (job tracking, hours, payments), built with Cursor
+- **[AWS Account Auditor](https://github.com/Jackkamin/AWS-Auditor)**
+— Python/boto3 tool that checks EC2, S3, and IAM configs against basic
+security/cost best practices.
+- **[ZClean](https://github.com/Jackkamin/ZClean)** — small iOS app for my
+mum's cleaning jobs (job tracking, hours, payments), built with Cursor.
 
 ---
 
-### 📚 Studying
+## 📚 Studying
 
 - AWS Cloud Practitioner certification
 - BSc Computing and IT (Open University)
 
 ---
 
-### ⚙️ Technologies
+## ⚙️ Technologies
 
 - **Languages:** Python and Java
 - **Cloud/Infra:** AWS (EC2, S3, IAM), Terraform
@@ -26,9 +29,10 @@ CS student | Computing & IT (Software)
 
 ---
 
-### 🎯 Goal
+## 🎯 Goal
 
-Breaking into DevOps/cloud engineering — interested in how infrastructure gets built and kept reliable at scale.
+Breaking into DevOps/cloud engineering — interested in how infrastructure gets
+built and kept reliable at scale.
 
 ---
 
