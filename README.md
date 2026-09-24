@@ -9,8 +9,6 @@ CS student | Computing & IT (Software)
 - **[AWS Account Auditor](https://github.com/Jackkamin/AWS-Auditor)**
 — Python/boto3 tool that checks EC2, S3, and IAM configs against basic
 security/cost best practices.
-- **[ZClean](https://github.com/Jackkamin/ZClean)** — small iOS app for my
-mum's cleaning jobs (job tracking, hours, payments), built with Cursor.
 
 ---
 
